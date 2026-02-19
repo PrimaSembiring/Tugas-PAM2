@@ -175,14 +175,12 @@ fun testGetDetail() = runTest {
 ---
 ## 🔹 Detail Berita
 
-```markdown
 ![Detail](1.png)
-```
+
 
 ## 🔹 Tampilan Utama
 
-```markdown
 ![Tampilan](2.png)
-```
+
 
 
