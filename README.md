@@ -21,9 +21,10 @@
 
 ---
 
-# 🧠 Implementasi Code
+# Implementasi Code
 
 ---
+## Implementasi Flow 
 
 ### Flow Builder
 
@@ -161,16 +162,6 @@ fun testGetDetail() = runTest {
 ---
 
 # Screenshot Aplikasi
-
----
-
-## 🔹 Tampilan Utama
-
-> Tambahkan screenshot di folder `screenshots/` lalu masukkan di sini.
-
-```markdown
-![Home](screenshots/home.png)
-```
 
 ---
 ## 🔹 Detail Berita
